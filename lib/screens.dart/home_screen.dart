@@ -98,7 +98,7 @@ class _HomeScreenState extends State<HomeScreen> {
               begin: Alignment.topLeft,
               end: Alignment.bottomRight,
               colors: [
-                Color.fromARGB(255, 43, 19, 109),
+                Color.fromARGB(255, 109, 19, 19),
                 Color.fromARGB(255, 26, 5, 63),
               ],
             ),
